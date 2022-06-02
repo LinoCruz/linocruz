@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linocruz&label=Profile%20views&color=0e75b6&style=flat" alt="linocruz" /> </p>
 
 
-- 🔭 I’m currently working on [Girasol E-commerce](https://github.com/LinoCruz/girasol-clothes-ecommerce)
+- 🔭 I’m currently working on [Girasol E-commerce](https://github.com/LinoCruz/girasol-clothes-ecommerce) & No Country
 
 - 🌱 I’m currently learning **Data Analysis and Data Science**
 
