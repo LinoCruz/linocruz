@@ -6,11 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linocruz&label=Profile%20views&color=0e75b6&style=flat" alt="linocruz" /> </p>
 
 
-- 🔭 I’m currently working on [Girasol E-commerce](https://github.com/LinoCruz/girasol-clothes-ecommerce) & No Country
+- 🔭 I’m currently developing and collaborating on [iShelter - Help for Ukranians](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
 
-- 🌱 I’m currently learning **Data Analysis and Data Science**
-
-- 👯 I’m collaborating on [Infinity E-commerce App](https://github.com/LinoCruz/infinity-ecom)
+- 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Science**
 
 - 🤝 I’m looking for help with [Enrolee - WebApp for local events](https://github.com/LinoCruz/enrolee)
 
