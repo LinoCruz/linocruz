@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently developing and collaborating on [iShelter - Help for Ukranians](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
 
-- 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Science**
+- 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Architecture**
 
 - 🤝 I’m looking for help with [Enrolee - WebApp for local events](https://github.com/LinoCruz/enrolee)
 
@@ -16,7 +16,7 @@
 
 - 📝 I regularly write articles on [https://datasciencepe.substack.com/](https://datasciencepe.substack.com/)
 
-- 💬 Ask me about **react, python and java**
+- 💬 Ask me about **node.js, python and java**
 
 - 📫 How to reach me **linoeduardocd@gmail.com**
 
