@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently developing and collaborating on [iShelter - Help for Ukranians](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
 
-- 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Architecture**
+- 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Engineering**
 
 - 🤝 I’m looking for help with [Enrolee - WebApp for local events](https://github.com/LinoCruz/enrolee)
 
