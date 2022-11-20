@@ -1,6 +1,6 @@
 [![MasterHead](https://s4.gifyu.com/images/cover-linkedin.gif)](https://linocruz.github.io/my_web_page/)
 <h1 align="center">Hi 👋, I'm Lino Cruz</h1>
-<h3 align="center">Backend developer and Software Engineering student.</h3>
+<h3 align="center">Fullstack developer and Data Science(in process).</h3>
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linocruz&label=Profile%20views&color=0e75b6&style=flat" alt="linocruz" /> </p>
@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently developing and collaborating on [iShelter - Help for Ukranians](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
 
-- 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Engineering**
+- 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Science**
 
 - 🤝 I’m looking for help with [Enrolee - WebApp for local events](https://github.com/LinoCruz/enrolee)
 
