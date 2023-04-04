@@ -14,15 +14,15 @@
 
 - 👨‍💻 All of my projects are available at [https://linocruz.github.io/my_web_page/](https://linocruz.github.io/my_web_page/)
 
-- 📝 I regularly write articles on [https://datasciencepe.substack.com/](https://datasciencepe.substack.com/)
+- 📝 I wrote some articles for [https://datasciencepe.substack.com/](https://datasciencepe.substack.com/)
 
-- 💬 Ask me about **node.js, python and java**
+- 💬 Ask me about **React.js, Python and .NET**
 
 - 📫 How to reach me **linoeduardocd@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/lino-cruz-519597234/](https://www.linkedin.com/in/lino-cruz-519597234/)
+- 📄 Know about my experiences [https://www.linkedin.com/in/lino-cruz/](https://www.linkedin.com/in/lino-cruz-519597234/)
 
-- ⚡ My commitment **To protect the natural environment.**
+- ⚡ My commitment **To protect the amazonian forest.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
