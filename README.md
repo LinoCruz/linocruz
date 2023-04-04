@@ -6,9 +6,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linocruz&label=Profile%20views&color=0e75b6&style=flat" alt="linocruz" /> </p>
 
 
-- 🔭 I’m currently developing and collaborating on [iShelter - Help for Ukranians](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
-
 - 🌱 I’m currently learning **Software Engineering with Artificial Intelligence. Also Data Science**
+
+- 🔭 I collaborated on [iShelter - Help for Ukranians](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
 
 - 🤝 I’m looking for help with [Enrolee - WebApp for local events](https://github.com/LinoCruz/enrolee)
 
