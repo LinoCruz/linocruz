@@ -1,6 +1,6 @@
 [![MasterHead](https://s3.gifyu.com/images/cover-linkedin.gif)](https://linocruz.github.io/my_web_page/)
 <h1 align="center">Hi 👋, I'm Lino Cruz</h1>
-<h3 align="center">Fullstack Developer and Data Analyst(in process).</h3>
+<h3 align="center">Fullstack Developer and Computer Scientist.</h3>
 <img align="right" alt="Coding" width="200" src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linocruz&label=Profile%20views&color=0e75b6&style=flat" alt="linocruz" /> </p>
