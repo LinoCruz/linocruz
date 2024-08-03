@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=linocruz&label=Profile%20views&color=0e75b6&style=flat" alt="linocruz" /> </p>
 
 
-- 🌱 I’m currently learning **Software Engineering with AI.**
+- 🌱 I’m a Computer Scientist with a specialization in AI.
 
 - 🔭 I collaborated on [iShelter - Help for Ukranians](https://github.com/CodingDojoHackathonTeam2/SafeMaps)
 
